@@ -19,6 +19,6 @@ Pod::Spec.new do |spec|
   spec.ios.framework = "Foundation"
   spec.ios.vendored_frameworks = 'WiFiMapSDK.framework'
   
-  spec.source = { :http => 'https://www.dropbox.com/s/5l4gww1n9lh6srh/WiFiMapSDK.framework.zip' }
+  spec.source = { :http => 'https://www.dropbox.com/s/ro3yzglszt6f8yc/WiFiMapSDK.framework.zip' }
 
 end
